@@ -163,6 +163,12 @@ figure svg {
         grid-template-columns: repeat(1, auto);
 
     }
+    .circle {
+        width: 80px;
+        height: 80px;
+    
+        border-radius: 100%;
+    }
 
 }
 
